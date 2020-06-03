@@ -1,9 +1,10 @@
 
 # FIE453 - BIG DATA WITH APPLICATIONS TO FINANCE
 
-Semester Project at Norwegian School of Economics (NHH)
+Semester Project on stock prediction at Norwegian School of Economics (NHH)
 
-[Course Description:](https://www.nhh.no/en/courses/big-data-with-applications-to-finance/)
+
+## Course description:
 
 Businesses have entered the age of Big Data. Now that computers and the Internet have become so central to modern commerce, businesses are awash with large amounts of data about their customers. Electronic trading has made handling large amounts of data central to financial firms. Big Data has created both challenges and opportunities. The biggest opportunity is to extract useful information from the masses of data using statistics and machine learning. Businesses that can extract such information and act on it automatically have a substantial competitive advantage. Some of the world's most successful companies, such as Google and Facebook, have built themselves around Big Data.
 
@@ -20,4 +21,4 @@ This course will take students to the frontier of Big Data analysis. Students wi
 * Understand and avoid overfitting.
 * Apply what they have learned to real data.
 
-
+Further information can be found at:  https://www.nhh.no/en/courses/big-data-with-applications-to-finance/
