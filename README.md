@@ -1,5 +1,5 @@
 
-# FIE453 - BIG DATA WITH APPLICATIONS TO FINANCE
+#FIE453 - BIG DATA WITH APPLICATIONS TO FINANCE
 
 
 [Course Description:](https://www.nhh.no/en/courses/big-data-with-applications-to-finance/)
